@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601116365457",
+    "firebase_url": "https://bddf-4e12a.firebaseio.com",
+    "project_id": "bddf-4e12a",
+    "storage_bucket": "bddf-4e12a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601116365457:android:9304a44d8cb55f73f32530",
+        "android_client_info": {
+          "package_name": "com.bddf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601116365457-l29611vpbpdfrhkqt8hs80iireef8pt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsNGdzSH33eMXi7dPQEvbIx2lrz1mMaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601116365457-l29611vpbpdfrhkqt8hs80iireef8pt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
