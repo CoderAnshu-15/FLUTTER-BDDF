@@ -75,7 +75,7 @@ signInWithEmailAndPassword(email: _email, password: _password))
           children: <Widget>[
             Container(
               child: Center(
-                child: Text("LifeShare",
+                child: Text("BDDF",
                 style: TextStyle(
                   fontFamily: "SouthernAire",
                   fontSize: 100.0,
